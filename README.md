@@ -47,7 +47,7 @@ Real-Time Fruit Classification
 
 ## 📂 Project Files
 
-### `fruit classification .ipynb`
+### `fruit_classification .ipynb`
 
 Contains the CNN model development, training, validation, and evaluation process.
 
@@ -69,5 +69,39 @@ Contains the OpenCV-based real-time fruit classification using the trained CNN m
 
 ### Install required libraries
 
-```bash
 pip install tensorflow opencv-python numpy matplotlib jupyter
+
+### Run the training notebook
+
+Open:
+
+`fruit_classification.ipynb`
+
+Run the notebook to train and save the CNN model.
+
+### Run the real-time prediction notebook
+
+Open:
+
+`realtime_fruit_classification.ipynb`
+
+Make sure the trained model path in the notebook is correct.
+
+## 💡 Skills Demonstrated
+
+- Python
+- Deep Learning
+- CNN
+- TensorFlow/Keras
+- Image Classification
+- Data Preprocessing
+- Data Augmentation
+- Model Evaluation
+- OpenCV
+- Real-Time Computer Vision
+
+## 👩‍💻 Author
+
+**Shital Kachare**
+B.Sc. Computer Science
+Aspiring Data Scientist
